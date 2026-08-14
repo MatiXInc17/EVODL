@@ -1,0 +1,22 @@
+{
+    "id": 146732135,
+    "name": "Shitty NLYE",
+    "author": "wpopoff",
+    "creators": [
+        "CosmicUK"
+    ],
+    "verifier": "wpopoff",
+    "verification": "https://youtu.be/NcDBjYh5SUU?si=8GzTx6HB8syTf7ES",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 30,
+        "difficulty": "Hard Demon",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 79,
+        "verifierUserId": 79,
+        "sqlId": 100
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": 144977092,
+    "name": "Time Extremeasy",
+    "author": "safani_42",
+    "creators": [
+        "safani_42"
+    ],
+    "verifier": "safani_42",
+    "verification": "https://youtu.be/SCGh4e0Z0PI",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 49,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-16-c8537487-cfc0-4e52-bad6-efe6aead1919.png",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 2,
+        "verifierUserId": 2,
+        "sqlId": 46
+    }
+}

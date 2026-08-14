@@ -1,0 +1,22 @@
+{
+    "id": 16066307,
+    "name": "Easy Moon",
+    "author": "Celloplayer",
+    "creators": [
+        "Celloplayer"
+    ],
+    "verifier": "Celloplayer",
+    "verification": "https://cdn.phototourl.com/free/2026-06-28-f5dc835a-5276-4431-98c9-6c2d94102a88.jpg",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 85,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-06-28-54454bb4-202b-4966-9ee0-d75c9d0611ed.png",
+        "levelLength": "XL",
+        "legacy": false,
+        "commentsDisabled": false,
+        "sqlId": 32
+    }
+}

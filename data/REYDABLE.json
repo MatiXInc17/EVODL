@@ -1,0 +1,22 @@
+{
+    "id": 146273439,
+    "name": "REYDABLE",
+    "author": "Icelygd",
+    "creators": [
+        "Icelygd"
+    ],
+    "verifier": "Icelygd",
+    "verification": "https://youtu.be/W78qfb_f0s4?is=PdqzyyUpArzq5qGn",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 107,
+        "difficulty": "Harder",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 44,
+        "verifierUserId": 44,
+        "sqlId": 87
+    }
+}

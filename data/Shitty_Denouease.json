@@ -1,0 +1,23 @@
+{
+    "id": 146855148,
+    "name": "Shitty Denouease",
+    "author": "M33Galaxy",
+    "creators": [
+        "M33Galaxy"
+    ],
+    "verifier": "M33Galaxy",
+    "verification": "https://youtu.be/eUVDgeRNqlA",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 43,
+        "difficulty": "Medium demon",
+        "thumbnail": "https://user20686.na.imgto.link/public/20260813/chatgpt-image-12-2026-23-47-27.avif",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 50,
+        "verifierUserId": 50,
+        "sqlId": 114
+    }
+}

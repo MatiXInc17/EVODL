@@ -1,0 +1,23 @@
+{
+    "id": 145890323,
+    "name": "GENTLE",
+    "author": "rightie",
+    "creators": [
+        "rightie"
+    ],
+    "verifier": "rightie",
+    "verification": "https://youtu.be/rFch1oIyfUc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 62,
+        "difficulty": "Medium Demon",
+        "thumbnail": "https://i.ytimg.com/vi/rFch1oIyfUc/mqdefault.jpg",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 61,
+        "verifierUserId": 61,
+        "sqlId": 75
+    }
+}

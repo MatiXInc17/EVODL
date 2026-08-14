@@ -1,0 +1,24 @@
+{
+    "id": 144768635,
+    "name": "The Dream",
+    "author": "Themis",
+    "creators": [
+        "Themis"
+    ],
+    "verifier": "Themis",
+    "verification": "https://www.youtube.com/watch?v=FFur3Ag34Vc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 105,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-14-2b90e4aa-5bec-4b3a-8dd7-4784823b186a.webp",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 12,
+        "verifierUserId": 12,
+        "sqlId": 39
+    }
+}

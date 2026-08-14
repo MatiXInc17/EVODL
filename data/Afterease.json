@@ -1,0 +1,26 @@
+{
+    "id": 142561379,
+    "name": "Afterease",
+    "author": "matix",
+    "creators": [
+        "matix"
+    ],
+    "verifier": "matix",
+    "verification": "https://youtu.be/Z94ai71AiDQ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 46,
+        "difficulty": "Medium Demon",
+        "thumbnail": "https://i.ytimg.com/vi/Z94ai71AiDQ/mqdefault.jpg",
+        "levelLength": "Long",
+        "song": "At the Speed of Light - Dimrain77",
+        "objectCount": 15757,
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 1,
+        "verifierUserId": 1,
+        "sqlId": 2
+    }
+}

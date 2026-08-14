@@ -1,0 +1,24 @@
+{
+    "id": 142589824,
+    "name": "Denoueasy",
+    "author": "safani_42",
+    "creators": [
+        "safani_42"
+    ],
+    "verifier": "safani_42",
+    "verification": "https://youtu.be/fl1mu4ikn3k",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 93,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-06-26-aee4b8ae-d33f-4954-9474-955ebd09d279.png",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 2,
+        "verifierUserId": 2,
+        "sqlId": 11
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": 145970725,
+    "name": "nondemon blended",
+    "author": "CosmicUK",
+    "creators": [
+        "CosmicUK"
+    ],
+    "verifier": "CosmicUK",
+    "verification": "https://www.youtube.com/watch?v=2H-N5qxWM6o",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 103,
+        "difficulty": "insane",
+        "thumbnail": "https://i.ytimg.com/vi/2H-N5qxWM6o/mqdefault.jpg",
+        "legacy": false,
+        "commentsDisabled": false,
+        "verifierUserId": 66,
+        "sqlId": 76
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": 144728075,
+    "name": "Shitty Griez",
+    "author": "popcat",
+    "creators": [
+        "popcat"
+    ],
+    "verifier": "popcat",
+    "verification": "https://www.youtube.com/watch?si=VdE0uOhMqX8H5CFT&v=dX6r_DOiL6A&feature=youtu.be",
+    "percentToQualify": 65,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 20,
+        "difficulty": "Medium Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-16-704b87b9-8b56-4b56-8bbf-8caa43bdb19b.png",
+        "levelLength": "XL",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 6,
+        "verifierUserId": 6,
+        "sqlId": 50
+    }
+}

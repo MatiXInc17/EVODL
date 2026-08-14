@@ -1,0 +1,23 @@
+{
+    "id": 146390544,
+    "name": "Infinite Easy",
+    "author": "justcubey",
+    "creators": [
+        "justcubey"
+    ],
+    "verifier": "justcubey",
+    "verification": "https://youtu.be/5RnmalL5u1Y",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 106,
+        "difficulty": "Harder",
+        "thumbnail": "https://user19855.na.imgto.link/public/20260813/obraz-2026-08-06-110108130-jakub-ses.avif",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 84,
+        "verifierUserId": 84,
+        "sqlId": 118
+    }
+}

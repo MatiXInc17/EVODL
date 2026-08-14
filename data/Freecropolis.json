@@ -1,0 +1,21 @@
+{
+    "id": 142191838,
+    "name": "Freecropolis",
+    "author": "HakariGD",
+    "creators": [
+        "HakariGD"
+    ],
+    "verifier": "HakariGD",
+    "verification": "https://www.youtube.com/watch?v=yehuSmc4vOM",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 32,
+        "difficulty": "Hard Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-06-26-ec5c125f-b97d-43e1-9247-6be6a4af9e2f.png",
+        "legacy": false,
+        "commentsDisabled": false,
+        "sqlId": 10
+    }
+}

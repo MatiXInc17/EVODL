@@ -1,0 +1,23 @@
+{
+    "id": 143655366,
+    "name": "E",
+    "author": "matix",
+    "creators": [
+        "matix"
+    ],
+    "verifier": "matix",
+    "verification": "https://youtu.be/8jqgMhtsO3E",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 82,
+        "difficulty": "Insane",
+        "thumbnail": "https://i.ytimg.com/vi/8jqgMhtsO3E/mqdefault.jpg",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 1,
+        "verifierUserId": 1,
+        "sqlId": 28
+    }
+}
