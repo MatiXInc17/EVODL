@@ -1,0 +1,24 @@
+{
+    "id": 144803141,
+    "name": "Life Note",
+    "author": "mrhectorp",
+    "creators": [
+        "mrhectorp"
+    ],
+    "verifier": "mrhectorp",
+    "verification": "https://www.youtube.com/watch?v=OInfLFGfs3Q",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 53,
+        "difficulty": "Medium Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-16-265d2338-2e03-4e50-bb50-dad9f4c99af2.png",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 10,
+        "verifierUserId": 10,
+        "sqlId": 49
+    }
+}

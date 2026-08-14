@@ -1,0 +1,24 @@
+{
+    "id": 146423776,
+    "name": "Shity Azure Flare",
+    "author": "M33Galaxy",
+    "creators": [
+        "M33Galaxy"
+    ],
+    "verifier": "M33Galaxy",
+    "verification": "https://youtu.be/Ou1v4ypU93k",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 38,
+        "difficulty": "Medium demon",
+        "thumbnail": "https://user20686.na.imgto.link/public/20260806/chatgpt-image-6-2026-11-37-36.avif",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 50,
+        "verifierUserId": 50,
+        "sqlId": 94
+    }
+}

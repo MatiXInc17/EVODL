@@ -1,0 +1,23 @@
+{
+    "id": 146764168,
+    "name": "Easy Machine",
+    "author": "epic_and_cool",
+    "creators": [
+        "epic_and_cool"
+    ],
+    "verifier": "epic_and_cool",
+    "verification": "https://www.youtube.com/watch?v=p0b7jA6NxdA",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 10,
+        "difficulty": "Insane Demon",
+        "thumbnail": "https://user20686.na.imgto.link/public/20260813/easy-machine-thumbnail.avif",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 38,
+        "verifierUserId": 38,
+        "sqlId": 111
+    }
+}

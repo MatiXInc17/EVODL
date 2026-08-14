@@ -1,0 +1,23 @@
+{
+    "id": 143379841,
+    "name": "Jawbreasy",
+    "author": "matix",
+    "creators": [
+        "matix"
+    ],
+    "verifier": "matix",
+    "verification": "https://youtu.be/ppmJq22xNZ0",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 77,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://i.ytimg.com/vi/ppmJq22xNZ0/mqdefault.jpg",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 1,
+        "verifierUserId": 1,
+        "sqlId": 5
+    }
+}

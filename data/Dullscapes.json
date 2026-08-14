@@ -1,0 +1,24 @@
+{
+    "id": 140575764,
+    "name": "Dullscapes",
+    "author": "Themis",
+    "creators": [
+        "Themis"
+    ],
+    "verifier": "Themis",
+    "verification": "https://www.youtube.com/watch?v=-B_L6mHrAv4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 56,
+        "difficulty": "Medium Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-06-28-dc440e78-7009-4583-b740-f09d53c5f23a.webp",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 12,
+        "verifierUserId": 12,
+        "sqlId": 29
+    }
+}

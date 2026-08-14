@@ -1,0 +1,23 @@
+{
+    "id": 146840088,
+    "name": "shitty catacleasy",
+    "author": "M33Galaxy",
+    "creators": [
+        "M33Galaxy"
+    ],
+    "verifier": "M33Galaxy",
+    "verification": "https://youtu.be/RqFEY3qUHjI",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 41,
+        "difficulty": "Medium demon",
+        "thumbnail": "https://user20686.na.imgto.link/public/20260813/chatgpt-image-12-2026-23-45-59.avif",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 50,
+        "verifierUserId": 50,
+        "sqlId": 113
+    }
+}

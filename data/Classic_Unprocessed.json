@@ -1,0 +1,22 @@
+{
+    "id": 146388889,
+    "name": "Classic Unprocessed",
+    "author": "wpopoff",
+    "creators": [
+        "[CREO] Dimensions"
+    ],
+    "verifier": "wpopoff",
+    "verification": "https://youtu.be/4pvrZI874og?si=MFMsOPZJVYlYXyPj",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 15,
+        "difficulty": "Hard Demon",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 79,
+        "verifierUserId": 79,
+        "sqlId": 101
+    }
+}

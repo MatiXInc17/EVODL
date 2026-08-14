@@ -1,0 +1,21 @@
+{
+    "id": 142283028,
+    "name": "Mango Easy House",
+    "author": "Popcat",
+    "creators": [
+        "Popcat"
+    ],
+    "verifier": "Popcat",
+    "verification": "https://youtube.com/watch?v=AckL97XnZEc&si=86PeEm3kgzAlPi7O",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 37,
+        "difficulty": "Hard Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-06-26-d3f51629-4353-402a-b949-617ceb859e8f.png",
+        "legacy": false,
+        "commentsDisabled": false,
+        "sqlId": 22
+    }
+}

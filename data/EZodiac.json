@@ -1,0 +1,24 @@
+{
+    "id": 144797473,
+    "name": "EZodiac",
+    "author": "gloomel",
+    "creators": [
+        "gloomel"
+    ],
+    "verifier": "gloomel",
+    "verification": "https://www.youtube.com/watch?v=WUVZKQwLvJc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 2,
+        "difficulty": "Insane Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-22-c7495955-5cca-4ef9-93b6-48588ebf26ff.png",
+        "levelLength": "XL",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 8,
+        "verifierUserId": 8,
+        "sqlId": 60
+    }
+}

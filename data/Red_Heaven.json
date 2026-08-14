@@ -1,0 +1,22 @@
+{
+    "id": 146122296,
+    "name": "Red Heaven",
+    "author": "CosmicUK",
+    "creators": [
+        "CosmicUK"
+    ],
+    "verifier": "CosmicUK",
+    "verification": "https://www.youtube.com/watch?v=7W6cVkTtUh8",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 98,
+        "difficulty": "Insane",
+        "thumbnail": "https://user19855.na.imgto.link/public/20260801/images-3.avif",
+        "legacy": false,
+        "commentsDisabled": false,
+        "verifierUserId": 66,
+        "sqlId": 83
+    }
+}

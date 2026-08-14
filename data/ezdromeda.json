@@ -1,0 +1,23 @@
+{
+    "id": 146906865,
+    "name": "ezdromeda",
+    "author": "tmt_glitch",
+    "creators": [
+        "tmt_glitch"
+    ],
+    "verifier": "tmt_glitch",
+    "verification": "https://www.youtube.com/watch?v=KuSLq42h-zM",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 1,
+        "difficulty": "Insane Demon",
+        "thumbnail": "https://user20686.na.imgto.link/public/20260813/screenshot-2026-08-13-144815.avif",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 54,
+        "verifierUserId": 54,
+        "sqlId": 115
+    }
+}

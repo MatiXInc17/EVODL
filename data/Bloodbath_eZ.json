@@ -1,0 +1,24 @@
+{
+    "id": 144406071,
+    "name": "Bloodbath eZ",
+    "author": "Elrotex",
+    "creators": [
+        "Elrotex",
+        "Safani_42"
+    ],
+    "verifier": "Safani_42",
+    "verification": "https://youtu.be/t5Bi3iSZpTg",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 91,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-08-01ec2341-7915-4d42-ad8c-1157be7292ec.png",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "verifierUserId": 2,
+        "sqlId": 38
+    }
+}
