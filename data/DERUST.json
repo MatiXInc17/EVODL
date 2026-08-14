@@ -1,0 +1,23 @@
+{
+    "id": 143664015,
+    "name": "DERUST",
+    "author": "gloomel",
+    "creators": [
+        "gloomel"
+    ],
+    "verifier": "gloomel",
+    "verification": "https://www.youtube.com/watch?v=hK_-alkClgs",
+    "percentToQualify": 70,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 22,
+        "difficulty": "Hard Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-15-8cf9297a-3ce8-4a2c-97cf-1fce48fec5ed.png",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 8,
+        "verifierUserId": 8,
+        "sqlId": 34
+    }
+}

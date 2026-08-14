@@ -1,0 +1,24 @@
+{
+    "id": 144413089,
+    "name": "Reasy World Rebirth",
+    "author": "safani_42",
+    "creators": [
+        "safani_42"
+    ],
+    "verifier": "gdnasser",
+    "verification": "https://cdn.phototourl.com/free/2026-07-15-07ecc043-f01e-40e9-9fc6-d27ed2bb4841.webp",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 84,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-15-9dace005-b103-4300-87e8-efc7fd538958.png",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 2,
+        "verifierUserId": 14,
+        "sqlId": 44
+    }
+}

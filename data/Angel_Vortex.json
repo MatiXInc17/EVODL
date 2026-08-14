@@ -1,0 +1,24 @@
+{
+    "id": 145095765,
+    "name": "Angel Vortex",
+    "author": "epic_and_cool",
+    "creators": [
+        "epic_and_cool"
+    ],
+    "verifier": "epic_and_cool",
+    "verification": "https://medal.tv/es/games/geometry-dash/clips/n8y0dbA638cyk7yOM?invite=cr-MSxNMGYsNjY5NzMzOTEx",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 14,
+        "difficulty": "Hard Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-22-11361dd3-5857-40ae-8480-bf9e6bd48155.webp",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 38,
+        "verifierUserId": 38,
+        "sqlId": 54
+    }
+}

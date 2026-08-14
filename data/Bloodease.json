@@ -1,0 +1,21 @@
+{
+    "id": 139041556,
+    "name": "Bloodease",
+    "author": "Thndrrgod",
+    "creators": [
+        "Thndrrgod"
+    ],
+    "verifier": "NaziGD",
+    "verification": "https://youtu.be/WdcyRmvvbSg",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 90,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-06-26-8c8fc06b-65f3-4323-9c1e-0385c28fdf89.png",
+        "legacy": false,
+        "commentsDisabled": false,
+        "sqlId": 6
+    }
+}

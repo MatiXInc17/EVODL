@@ -1,0 +1,22 @@
+{
+    "id": 142431644,
+    "name": "Platinum Easyventure",
+    "author": "ELJ9J",
+    "creators": [
+        "ELJ9J"
+    ],
+    "verifier": "ELJ9J",
+    "verification": "https://cdn.phototourl.com/free/2026-06-28-cc5c41f0-2fd8-4540-a1bf-cf706a7d0516.jpg",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 100,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-06-28-46292667-ac5e-4944-bfd7-4bb9952ae2e9.png",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "sqlId": 30
+    }
+}
