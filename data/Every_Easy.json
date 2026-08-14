@@ -1,0 +1,24 @@
+{
+    "id": 141776730,
+    "name": "Every Easy",
+    "author": "safani_42",
+    "creators": [
+        "safani_42"
+    ],
+    "verifier": "safani_42",
+    "verification": "https://youtu.be/MIhYLw7Rzi4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 92,
+        "difficulty": "Easy Demon",
+        "levelLength": "Long",
+        "song": "Every End - Titan1um",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 2,
+        "verifierUserId": 2,
+        "sqlId": 13
+    }
+}

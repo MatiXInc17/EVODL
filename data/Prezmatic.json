@@ -1,0 +1,21 @@
+{
+    "id": 145621287,
+    "name": "Prezmatic",
+    "author": "hirazu",
+    "creators": [
+        "hirazu"
+    ],
+    "verifier": "hirazu",
+    "verification": "https://youtu.be/IlmLFp_pDZY?si=8FRw-T0KWwkRUJLp",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 9,
+        "difficulty": "Hard Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-26-209d1668-e81e-4869-98cf-91267fab706c.webp",
+        "legacy": false,
+        "commentsDisabled": false,
+        "sqlId": 66
+    }
+}

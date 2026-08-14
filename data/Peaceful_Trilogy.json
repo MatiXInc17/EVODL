@@ -1,0 +1,24 @@
+{
+    "id": 142563994,
+    "name": "Peaceful Trilogy",
+    "author": "matix",
+    "creators": [
+        "matix"
+    ],
+    "verifier": "gloomel",
+    "verification": "https://youtu.be/_kgj1lG-wKw?si=AWCdLpb7MEPfXl9e",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 13,
+        "difficulty": "Hard Demon",
+        "thumbnail": "https://i.ytimg.com/vi/VRmN5PfhDoc/mqdefault.jpg",
+        "levelLength": "XL",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 1,
+        "verifierUserId": 8,
+        "sqlId": 33
+    }
+}

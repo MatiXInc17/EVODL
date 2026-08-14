@@ -1,0 +1,22 @@
+{
+    "id": 142701140,
+    "name": "Through the deasy",
+    "author": "Achro",
+    "creators": [
+        "Achro"
+    ],
+    "verifier": "Achro",
+    "verification": "https://canva.link/0e7swyo9wf1jyuo",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 87,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-06-27-d17551ef-392a-4092-abd5-e322d763fc10.png",
+        "levelLength": "Long",
+        "legacy": false,
+        "commentsDisabled": false,
+        "sqlId": 24
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": 142858324,
+    "name": "Conical Happyness",
+    "author": "matix",
+    "creators": [
+        "matix"
+    ],
+    "verifier": "n4meless",
+    "verification": "https://www.youtube.com/watch?app=desktop&v=1rCXC4FA_EY&ra=m",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 44,
+        "difficulty": "Medium Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-19-79643df1-bf8d-4c0e-9f3e-684604b5ec40.png",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 1,
+        "verifierUserId": 43,
+        "sqlId": 56
+    }
+}

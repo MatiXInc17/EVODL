@@ -1,0 +1,24 @@
+{
+    "id": 145384333,
+    "name": "Shitty Joyhouse",
+    "author": "M33Galaxy",
+    "creators": [
+        "M33Galaxy"
+    ],
+    "verifier": "M33Galaxy",
+    "verification": "https://www.youtube.com/watch?v=DTfLg5oi-N4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [],
+    "_evodl": {
+        "position": 57,
+        "difficulty": "Easy Demon",
+        "thumbnail": "https://cdn.phototourl.com/free/2026-07-22-6113e9d9-b606-432f-b664-1de0ac2cf5fc.png",
+        "levelLength": "Medium",
+        "legacy": false,
+        "commentsDisabled": false,
+        "publisherUserId": 50,
+        "verifierUserId": 50,
+        "sqlId": 61
+    }
+}
